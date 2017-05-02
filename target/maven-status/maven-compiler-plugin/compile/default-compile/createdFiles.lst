@@ -1,0 +1,8 @@
+org/temperaturecontrol/TemperatureControllerApplication.class
+org/temperaturecontrol/ThermostatRegistration.class
+org/temperaturecontrol/ThermostatController.class
+org/temperaturecontrol/ApartmentRepository.class
+org/temperaturecontrol/Thermostat.class
+org/temperaturecontrol/ThermostatRepository.class
+org/temperaturecontrol/ApartmentRegistration.class
+org/temperaturecontrol/Apartment.class
